@@ -7,13 +7,13 @@
 **Team:** Sam Hutchins, Andrey Voronov
 
 
-## install requirements
+## Install requirements
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## setting up kaggle token
+## Setting up kaggle token
 Authentication
 
 Before accessing the API, you need to authenticate using an API token. To do this:
