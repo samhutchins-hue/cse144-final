@@ -34,7 +34,7 @@ chmod 600 ~/.kaggle/kaggle.json
 Run CSE-144_FINAL.ipynb top to bottom in supporting jupyter notebook editor.
 
 1. Downloads the competition data with kagglehub
-2. Builds a stratified 80/20 tran/validation split (868/211 images, seed 42).
+2. Builds a stratified 80/20 train/validation split (868/211 images, seed 42).
 3. Trains the classifier head for 25 epochs, checkpointing the best validation-accuracy model to ./checkpoints/best_convnext_small.pt
 
 ## Inference
